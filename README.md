@@ -5,7 +5,7 @@
 **Connect Me**
 - Email : 'rudalsld3874@gmail.com'
 - [BTC 3기 교육 노션 바로가기](https://power-liver-617.notion.site/BTC_3-_-f29b478556834e2aa6ca69cf8a514293?pvs=4)
-''
+---
 **Role**
 - 팀원
 - CICD
